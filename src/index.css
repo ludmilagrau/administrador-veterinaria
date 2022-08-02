@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+
+
+#listado{
+    height: 650px;
+}
+
+#pacientes{
+    width: 800px;
+}
